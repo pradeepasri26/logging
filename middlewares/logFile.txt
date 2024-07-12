@@ -1,0 +1,7 @@
+New user Authenticated!
+Username: Pradeepasri
+Password: pradee2003
+URL: /api/checkLoggerData/Pradeepasri/pradee2003
+Date: 12/7/2024, 10:51:08 am
+Method Type: POST
+
